@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\StatTrak\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\StatTrak\\.nuget\\packages"
+    ]
+  }
+}
